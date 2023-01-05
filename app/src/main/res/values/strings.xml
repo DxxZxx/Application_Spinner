@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application_Spinner</string>
+    <string name="button">Find xxx</string>
+    <string name="textView">Nothing</string>
+    <string-array name="array">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+    </string-array>
+</resources>
