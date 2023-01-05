@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Expert {
     List<String> getColor(String color){
-        List<String> col = new ArrayList<String>();
+        List<String> col = new ArrayList<>();
         if(color.equals("one")){
             col.add("blue");
             col.add("red");
